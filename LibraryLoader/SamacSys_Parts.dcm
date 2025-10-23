@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP MCIMX6Y2CVM05AB
+D Microprocessors - MPU i.MX 32-bit MPU, ARM Cortex-A7 core, 528MHz, 289BGA
+K
+F https://www.nxp.com/docs/en/data-sheet/IMX6ULLIEC.pdf
+$ENDCMP
+#
+$CMP RJ45-8Z4
+D RJ45-8Z4 M0=F9770
+K
+F https://media.digikey.com/pdf/Data%20Sheets/Tyco%20Electronics%20Corcom%20PDFs/Z_Series.pdf
+$ENDCMP
+#
+$CMP STM32F407ZGT6
+D This LQFP is a 144-pin, 20 x 20 mm low-profile quad flat package.
+K
+F https://www.st.com/content/ccc/resource/technical/document/datasheet/ef/92/76/6d/bb/c2/4f/f7/DM00037051.pdf/files/DM00037051.pdf/jcr:content/translations/en.DM00037051.pdf
+$ENDCMP
+#
+$CMP 74CBTLV3253QG8
+D The 74CBTLV3253 is a dual 1-of-4 high-speed multiplexer/demultiplexer. The select (S0, S1) input controls the data flow. The multiplexer/ demultiplexer switches are disabled when the output-enable (OE) input is high. The 74CBTLV3253 operates at -40C to +85C
+K
+F https://www.idt.com/in/en/document/psc/16-qsop-package-outline-drawing-381-mm-sq-body-0635mm-pitch-pcg16d1
+$ENDCMP
+#
+$CMP STM32H743VGT6
+D STM32H743VGT6
+K
+F https://componentsearchengine.com/Datasheets/1/STM32H743VGT6.pdf
+$ENDCMP
+#
+#End Doc Library
