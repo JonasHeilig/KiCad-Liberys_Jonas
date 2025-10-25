@@ -8,7 +8,11 @@
 	(property "Reference" "IC**"
 		(at 0 0 0)
 		(layer "F.SilkS")
+<<<<<<< HEAD
 		(uuid "1cf99724-f4f5-4395-be83-c7431c02e0de")
+=======
+		(uuid "0c2d22cc-7389-42a5-b4c3-e059d4201ff8")
+>>>>>>> refs/remotes/origin/main
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20,7 +24,11 @@
 		(at 0 0 0)
 		(layer "F.SilkS")
 		(hide yes)
+<<<<<<< HEAD
 		(uuid "556b0b83-45ee-4cfb-b933-10d29b629922")
+=======
+		(uuid "a9a9c1bc-5dce-47c4-b76e-2f1cb15c30f7")
+>>>>>>> refs/remotes/origin/main
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -32,7 +40,11 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
+<<<<<<< HEAD
 		(uuid "047c127e-436a-46ef-97d6-23ef3d09b945")
+=======
+		(uuid "8fff9238-222f-4657-b83c-276bf8f3c4d8")
+>>>>>>> refs/remotes/origin/main
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -44,7 +56,11 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
+<<<<<<< HEAD
 		(uuid "f8ea4e83-a148-4258-933e-3e03036b298a")
+=======
+		(uuid "7aaebdb3-32b9-4223-9ada-42fa2ad85104")
+>>>>>>> refs/remotes/origin/main
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -61,7 +77,11 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
+<<<<<<< HEAD
 		(uuid "9ca2d3eb-6906-4aa0-84c2-e2db90e65d24")
+=======
+		(uuid "9dfd6a5f-2257-41b7-8d91-d05b39d67029")
+>>>>>>> refs/remotes/origin/main
 	)
 	(fp_line
 		(start -6.65 6.65)
@@ -71,7 +91,11 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
+<<<<<<< HEAD
 		(uuid "c2c338f8-844a-497c-aa6f-c95bccb9a6f9")
+=======
+		(uuid "5efc2ab5-9d65-4f6f-b45c-2b25dc456dc5")
+>>>>>>> refs/remotes/origin/main
 	)
 	(fp_line
 		(start 6.65 -6.65)
@@ -81,7 +105,11 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
+<<<<<<< HEAD
 		(uuid "f355c9ea-ad6d-46d1-8032-adbf2746860c")
+=======
+		(uuid "3912c7cb-ed79-4aa3-b08a-e781da607bbb")
+>>>>>>> refs/remotes/origin/main
 	)
 	(fp_line
 		(start 6.65 6.65)
@@ -91,7 +119,11 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
+<<<<<<< HEAD
 		(uuid "911b67ab-fd54-4f1c-9839-95cc5424b9ca")
+=======
+		(uuid "0167bc47-b4c0-49c4-9ba7-80fe51978367")
+>>>>>>> refs/remotes/origin/main
 	)
 	(fp_circle
 		(center -8.225 -6.75)
@@ -102,7 +134,11 @@
 		)
 		(fill no)
 		(layer "F.SilkS")
+<<<<<<< HEAD
 		(uuid "4f96723f-313d-46fd-bdb4-4c44163f6eec")
+=======
+		(uuid "b8223aa7-0af0-4ccb-8182-d693c5083df2")
+>>>>>>> refs/remotes/origin/main
 	)
 	(fp_line
 		(start -8.725 -8.725)
@@ -112,7 +148,11 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
+<<<<<<< HEAD
 		(uuid "73551376-507f-4f09-a5b3-7fc7cb5fb3b9")
+=======
+		(uuid "9f91a455-8955-48bf-bb9a-84b2f5c039d6")
+>>>>>>> refs/remotes/origin/main
 	)
 	(fp_line
 		(start -8.725 8.725)
@@ -122,7 +162,11 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
+<<<<<<< HEAD
 		(uuid "11cd6109-12ba-432e-aa7d-f88bdc46dc71")
+=======
+		(uuid "9efb4257-a4bf-43d5-8679-47960f8acada")
+>>>>>>> refs/remotes/origin/main
 	)
 	(fp_line
 		(start 8.725 -8.725)
@@ -132,7 +176,11 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
+<<<<<<< HEAD
 		(uuid "e9bda6f5-de23-44fb-9750-de2d9d86b538")
+=======
+		(uuid "eff1cc4b-9c83-4adb-ba8d-b085e4ef715a")
+>>>>>>> refs/remotes/origin/main
 	)
 	(fp_line
 		(start 8.725 8.725)
@@ -142,7 +190,11 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
+<<<<<<< HEAD
 		(uuid "0aafd1db-db68-471e-9b37-74d19d517b3b")
+=======
+		(uuid "1ba9ffe6-d9b0-4723-894e-b691cafa2577")
+>>>>>>> refs/remotes/origin/main
 	)
 	(fp_line
 		(start -7 -7)
@@ -152,7 +204,11 @@
 			(type solid)
 		)
 		(layer "F.Fab")
+<<<<<<< HEAD
 		(uuid "1ddf1ce9-4ae4-481e-b7e1-4aaf878f087a")
+=======
+		(uuid "68cd4886-0306-47c0-86b4-b412b2fda345")
+>>>>>>> refs/remotes/origin/main
 	)
 	(fp_line
 		(start -7 -6.5)
@@ -162,7 +218,11 @@
 			(type solid)
 		)
 		(layer "F.Fab")
+<<<<<<< HEAD
 		(uuid "9de9c73c-1f07-40c1-a09d-545090fd9ebf")
+=======
+		(uuid "77ea73a4-40c6-4df5-9d11-8078cc83aa3e")
+>>>>>>> refs/remotes/origin/main
 	)
 	(fp_line
 		(start -7 7)
@@ -172,7 +232,11 @@
 			(type solid)
 		)
 		(layer "F.Fab")
+<<<<<<< HEAD
 		(uuid "75eea35c-b468-45e8-ac2b-403c325c34d9")
+=======
+		(uuid "294f200c-52c6-4766-9f2f-e88b5893b845")
+>>>>>>> refs/remotes/origin/main
 	)
 	(fp_line
 		(start 7 -7)
@@ -182,7 +246,11 @@
 			(type solid)
 		)
 		(layer "F.Fab")
+<<<<<<< HEAD
 		(uuid "31dd1a2d-6557-484d-9f4d-a8adbbc1651d")
+=======
+		(uuid "69ce13f6-a7f5-47c1-9e68-8b4076114d07")
+>>>>>>> refs/remotes/origin/main
 	)
 	(fp_line
 		(start 7 7)
@@ -192,12 +260,20 @@
 			(type solid)
 		)
 		(layer "F.Fab")
+<<<<<<< HEAD
 		(uuid "918ef14d-5fe8-485d-9efc-8a8a7883ac3a")
+=======
+		(uuid "0c2dfc19-7063-47d0-90a3-7909eb75e198")
+>>>>>>> refs/remotes/origin/main
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(layer "F.Fab")
+<<<<<<< HEAD
 		(uuid "d7af8fbd-5300-4533-8c6a-a6154d94ad11")
+=======
+		(uuid "f8b877f2-d658-4f98-a38f-f0d1fcfe157c")
+>>>>>>> refs/remotes/origin/main
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -209,604 +285,1018 @@
 		(at -7.738 -6 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "ad6e439d-0124-4a1b-a059-b9fc5b884946")
+=======
+		(uuid "254c0b07-d035-4513-888f-dc4416dcee13")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "2" smd rect
 		(at -7.738 -5.5 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "4a44e14f-dba5-4de6-88eb-426da33f67b3")
+=======
+		(uuid "f47f9df4-bec1-40db-baaa-6e2eb6ba500f")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "3" smd rect
 		(at -7.738 -5 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "75c0e006-941a-4451-ac2f-37c17c91f254")
+=======
+		(uuid "d311a513-baaa-4fa9-b065-acab78f6917b")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "4" smd rect
 		(at -7.738 -4.5 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "a491cc4b-c243-4d21-91a1-503f7e6ff4f2")
+=======
+		(uuid "a75f79d3-54ae-49cf-a790-d80cd902d6d4")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "5" smd rect
 		(at -7.738 -4 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "bd2d002f-d3ef-4453-8696-59b26765f3d6")
+=======
+		(uuid "9a5d97d6-9f36-40e0-961c-8164da15c214")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "6" smd rect
 		(at -7.738 -3.5 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "b97185ed-8b94-4e95-8b35-cbe710d8e6ca")
+=======
+		(uuid "c59f0a78-49fb-415e-a750-4430659d4e7a")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "7" smd rect
 		(at -7.738 -3 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "c498a9cf-b18a-47bb-bdb7-9afea0f5dcd1")
+=======
+		(uuid "7f8896cb-95fc-48c3-97f8-698b22cef800")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "8" smd rect
 		(at -7.738 -2.5 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "43aa0d11-178d-4e44-a684-41b90deb8985")
+=======
+		(uuid "acaffa59-c9be-493b-b229-755540dbd2d3")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "9" smd rect
 		(at -7.738 -2 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "4bf5c8ba-eb3a-43ef-963f-fedf6252d30e")
+=======
+		(uuid "83578a66-d355-490f-b081-b47bbeb11035")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "10" smd rect
 		(at -7.738 -1.5 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "410454a8-888c-4a45-b8ed-6907b616de81")
+=======
+		(uuid "985c5e3b-5786-47d2-8d79-4039aa068ce3")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "11" smd rect
 		(at -7.738 -1 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "342b506b-48a3-4595-989c-070aa6b960f0")
+=======
+		(uuid "52707242-da3d-41b9-815a-80078e7de621")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "12" smd rect
 		(at -7.738 -0.5 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "939860cd-ded3-4403-8104-a705783ec016")
+=======
+		(uuid "b24fd9c3-f34f-41a8-8720-f99c6f39dfe5")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "13" smd rect
 		(at -7.738 0 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "1067daa6-9584-417f-a214-673bd4caeba8")
+=======
+		(uuid "0679216f-bab3-47c5-9a1e-a698251cf3af")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "14" smd rect
 		(at -7.738 0.5 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "58c8cd1b-c2a9-4484-96dc-c3dd072eee10")
+=======
+		(uuid "8f272c1b-6df8-4768-98df-5422ca12b248")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "15" smd rect
 		(at -7.738 1 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "68fb0bd2-6037-46f8-8c83-ae87c2f10fc6")
+=======
+		(uuid "ef373be0-cc0b-4f4e-bc2e-65c2f29c763b")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "16" smd rect
 		(at -7.738 1.5 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "6bd93f55-c216-42a8-993b-50845158b319")
+=======
+		(uuid "18a05591-c689-4203-9edd-83eeaf84a6aa")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "17" smd rect
 		(at -7.738 2 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "d955a2ae-1d7c-4004-8036-9c1dccb6a7cc")
+=======
+		(uuid "b63a3a4f-199e-4efc-835d-71227e3a54ad")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "18" smd rect
 		(at -7.738 2.5 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "1c82237c-a8b1-4eea-aef2-c40b88c14680")
+=======
+		(uuid "58b5a942-f019-4eed-8243-7a90285173f4")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "19" smd rect
 		(at -7.738 3 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "cf636d9f-34f6-4475-bf5e-26ac43d6ab82")
+=======
+		(uuid "7ff1a2ca-6a7b-40fa-b1c9-5d7b00df4f4a")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "20" smd rect
 		(at -7.738 3.5 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "a317af7e-dbef-4df3-b67d-04f0cd171b5d")
+=======
+		(uuid "16a48871-d7e1-4fda-9f60-f48262dd9991")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "21" smd rect
 		(at -7.738 4 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "609d6175-d939-4a2d-8f89-55f47629a6ab")
+=======
+		(uuid "2c5eb24d-8da4-4f11-aa7d-557ecc68b98c")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "22" smd rect
 		(at -7.738 4.5 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "897a292f-b299-4c7c-bd65-171ce7a3170e")
+=======
+		(uuid "991f73dc-5a7d-426e-ac45-935b01025b5a")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "23" smd rect
 		(at -7.738 5 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "94fc79c9-01c4-4c2d-afee-86b7760cc61f")
+=======
+		(uuid "cb80746c-8af8-45db-93f8-e9b4a07baf12")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "24" smd rect
 		(at -7.738 5.5 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "6b1420f1-82cc-4eab-a660-ec4fb4ae918f")
+=======
+		(uuid "51d9e468-d098-4e01-83b7-eb6a74b04fd1")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "25" smd rect
 		(at -7.738 6 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "9b4549d7-9add-4037-9a80-479a3be734c8")
+=======
+		(uuid "6b7338b2-45c7-4086-adab-1cf7516dce81")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "26" smd rect
 		(at -6 7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "134c0c3a-8a21-490e-8087-966ae3ca023d")
+=======
+		(uuid "92f0078c-427a-461b-a903-9e338b2ed927")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "27" smd rect
 		(at -5.5 7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "17eab3c8-0235-4092-8c2f-35ec894d89bf")
+=======
+		(uuid "71a05948-c41d-481f-bfaf-f8dd8051ec9f")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "28" smd rect
 		(at -5 7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "1200f433-cd43-4c48-b844-604baf27760c")
+=======
+		(uuid "07a6a7ec-a586-45ec-a106-3bcdd166edc2")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "29" smd rect
 		(at -4.5 7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "ffd192bc-128f-40af-8cfe-4a99f32d3beb")
+=======
+		(uuid "dc405cc4-81ce-4b24-b40c-2f7b2a2b0cc8")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "30" smd rect
 		(at -4 7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "6d31fb0b-38d8-4c85-a572-5d6c09fef382")
+=======
+		(uuid "13fd48eb-2b6b-4ef1-afbc-6e7d478d90e8")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "31" smd rect
 		(at -3.5 7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "5f07f22a-ba5e-42ec-b5cc-80cb5a7c15bb")
+=======
+		(uuid "e0edec9f-7083-49d9-9cae-6409124669da")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "32" smd rect
 		(at -3 7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "ce915101-461c-4840-89af-5c0f86e28ca9")
+=======
+		(uuid "1f53a0e7-5600-4479-9746-e0cd3b595e2a")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "33" smd rect
 		(at -2.5 7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "86b93e81-543e-4e91-b0e6-4036259f3e14")
+=======
+		(uuid "0a3f9c83-a62a-4738-b701-0bed2a0d542d")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "34" smd rect
 		(at -2 7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "603a5924-55d3-4d72-8e72-e98e2dac65a2")
+=======
+		(uuid "07e92bb9-697d-4734-bf4b-77638e9a3198")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "35" smd rect
 		(at -1.5 7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "38dd86e4-7c4e-4dbf-918d-a3698a46e96f")
+=======
+		(uuid "91889ce9-4b1f-4cf4-84dc-3fba7498a3cb")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "36" smd rect
 		(at -1 7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "c16e175c-c561-4d3e-89d6-0261ca7ea976")
+=======
+		(uuid "5aa0eb84-32c2-476a-9c25-382ef12cad85")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "37" smd rect
 		(at -0.5 7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "07881c20-7f73-4d69-9571-3385af1c75ee")
+=======
+		(uuid "822196fc-e3ef-4793-9b89-0093aff29a71")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "38" smd rect
 		(at 0 7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "7ef8b746-725b-4649-8d61-0673af0d7ef9")
+=======
+		(uuid "16d47081-b381-4420-b470-28ce8c70f0dd")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "39" smd rect
 		(at 0.5 7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "7ee4756b-2099-4f1a-8b22-efed49f3ecef")
+=======
+		(uuid "3035865a-0299-4307-b057-a922b5f56e64")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "40" smd rect
 		(at 1 7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "f7e5913f-d68c-41b8-8816-fe2b4584872a")
+=======
+		(uuid "9e9e0880-1f69-497a-bdcb-265732fe47db")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "41" smd rect
 		(at 1.5 7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "55a1bfd0-6e84-4f92-aaca-d8b8da637936")
+=======
+		(uuid "238552af-e3c8-4958-9332-e2a06976181c")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "42" smd rect
 		(at 2 7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "61ad72e8-b34e-45e7-8dd2-4fb352efd9cc")
+=======
+		(uuid "e2d7b256-3320-4c97-a5cc-e65649f52285")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "43" smd rect
 		(at 2.5 7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "569890f1-e3d7-4a9b-ab12-bd389b68d02d")
+=======
+		(uuid "079dd4bf-85f5-48bb-be77-167572f35751")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "44" smd rect
 		(at 3 7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "557e66aa-afe2-405c-bfe0-dd6817055ea1")
+=======
+		(uuid "6dc37abe-b025-4d5d-a94d-d346ee255b5a")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "45" smd rect
 		(at 3.5 7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "e7a080aa-5107-4de3-8773-f187d4837245")
+=======
+		(uuid "b7767328-b0bb-407d-8ff1-7680b79ec65c")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "46" smd rect
 		(at 4 7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "3590c299-3b82-44a5-89f6-f401a9d36d95")
+=======
+		(uuid "c34a5b47-7251-40a3-9140-4fa1c4080527")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "47" smd rect
 		(at 4.5 7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "631571e9-af8c-40fc-bde1-43f33869190d")
+=======
+		(uuid "b41afa1c-7d44-4617-877f-6f3a4148e717")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "48" smd rect
 		(at 5 7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "9d735aa2-ba40-4eb0-bcb4-f858329b5240")
+=======
+		(uuid "9610027f-5923-476e-b5a7-90ba4e2d6093")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "49" smd rect
 		(at 5.5 7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "471445b3-d378-44ae-bc64-62f9d6a7438d")
+=======
+		(uuid "b7ddb33a-ba42-4b6c-bb63-4b24f74b0e9c")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "50" smd rect
 		(at 6 7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "83a3ae5a-9b96-4d1a-897f-155e45b1b5be")
+=======
+		(uuid "afad28db-bd1c-4251-8e79-940668a961e1")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "51" smd rect
 		(at 7.738 6 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "7e470074-2fd6-4a6e-9d79-4c4184402ec3")
+=======
+		(uuid "a6306e57-0540-406e-9c43-eee1a195a5c5")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "52" smd rect
 		(at 7.738 5.5 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "e41481af-ce2b-49e4-8181-a6b2c4c81d7f")
+=======
+		(uuid "7a9fc5c5-3ade-4331-9d0b-59c5aa3e9ba0")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "53" smd rect
 		(at 7.738 5 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "e2d02c17-2cba-4afa-8f55-13a8ff924920")
+=======
+		(uuid "52d26ff4-b35f-43c5-8031-e9ebc2dca63b")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "54" smd rect
 		(at 7.738 4.5 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "170e10d1-dccb-4005-ae8c-3d1228cc609d")
+=======
+		(uuid "792421a7-341a-4c1f-9eea-f5eee8bca779")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "55" smd rect
 		(at 7.738 4 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "b4fb96d5-23af-40f5-9667-cb3f0ef548c7")
+=======
+		(uuid "ede5811f-82a8-4d44-a72b-6ccf4a7497c4")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "56" smd rect
 		(at 7.738 3.5 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "b0ae7535-1785-41f6-9145-031ae48b5dfa")
+=======
+		(uuid "3b711629-e63b-47dc-9c14-12cca4fa6593")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "57" smd rect
 		(at 7.738 3 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "88372a56-0e32-4f21-887a-5e7e1fd72605")
+=======
+		(uuid "b14a8bb8-a1f9-4276-8240-f93a7c9452a6")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "58" smd rect
 		(at 7.738 2.5 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "5347dafc-aef1-485e-9aca-6544f9032f77")
+=======
+		(uuid "bb527a02-c9cd-42a3-838a-f01a0dfd3420")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "59" smd rect
 		(at 7.738 2 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "e1824bbe-e9ff-427c-bcfe-12b04ab55de8")
+=======
+		(uuid "06835c6f-e4f5-4f32-9dfc-0cf176f7c557")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "60" smd rect
 		(at 7.738 1.5 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "aa879e93-872b-4579-894e-5eaa3cd34f9d")
+=======
+		(uuid "ca0a2fa0-b3b7-4345-ba12-4d5787a632d8")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "61" smd rect
 		(at 7.738 1 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "42fed185-7eaf-45fe-b343-b0b5ca8558d8")
+=======
+		(uuid "22d45efb-fdab-492a-960c-1c1e6a0e0d3a")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "62" smd rect
 		(at 7.738 0.5 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "d9fa6998-6770-4cf7-b2d5-777ca4b118d8")
+=======
+		(uuid "8254ce3e-ea71-431c-a4e2-66fa37af54f8")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "63" smd rect
 		(at 7.738 0 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "e6e7b424-76a3-4f95-b838-570ec23f8043")
+=======
+		(uuid "541c9520-281a-4aa7-bd87-a7671dfa0342")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "64" smd rect
 		(at 7.738 -0.5 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "071f88d6-1733-44d8-91a5-ee4187ed4fe5")
+=======
+		(uuid "42334f26-de11-4ec6-934b-06b40d318a74")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "65" smd rect
 		(at 7.738 -1 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "12fcb0a5-001c-4886-a106-9b410fecc146")
+=======
+		(uuid "3559009c-1cf6-4532-b07a-cf9aeba26f55")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "66" smd rect
 		(at 7.738 -1.5 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "1cfcb89a-727f-4e82-b6eb-1e30b628ca7e")
+=======
+		(uuid "e8bdbe09-bef7-4f0e-8478-dba68adb4240")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "67" smd rect
 		(at 7.738 -2 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "95e7f1b1-fb62-42c0-8926-8bb23115aa55")
+=======
+		(uuid "09624046-8417-429c-9c58-11fad87a6682")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "68" smd rect
 		(at 7.738 -2.5 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "178c21ec-c453-4a7c-a044-0a828df7dc47")
+=======
+		(uuid "4764c7f5-5a99-4246-a6be-4c18c875e83c")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "69" smd rect
 		(at 7.738 -3 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "17e32f5c-7a3a-42fe-8baa-c1f6c2092e5c")
+=======
+		(uuid "3f0ab75f-30d6-4ea4-bc7a-ef331a066c11")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "70" smd rect
 		(at 7.738 -3.5 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "7bb35631-8520-4659-b7f9-10db13778666")
+=======
+		(uuid "d049ee73-f5ea-4c86-a9d2-5b84ca0351ff")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "71" smd rect
 		(at 7.738 -4 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "95b86d9e-bd1f-4504-af0f-11633a02465b")
+=======
+		(uuid "89009d9b-7f1d-4ec3-bfcc-00d2c3f4e352")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "72" smd rect
 		(at 7.738 -4.5 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "e9e5f2d0-6e22-4cd6-8db0-5ed0ae146a02")
+=======
+		(uuid "a9fe4666-2e20-4441-98b6-cb7ccfe5e4a2")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "73" smd rect
 		(at 7.738 -5 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "b9bae69d-5e5b-41cb-89d5-71181c723de9")
+=======
+		(uuid "020f92cb-a568-44d4-a480-f2efff5e90da")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "74" smd rect
 		(at 7.738 -5.5 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "e4a70a9e-dbba-4945-b6cd-3ac172fa5dcb")
+=======
+		(uuid "78388e01-fc81-443a-a2b5-e5b6f83e3027")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "75" smd rect
 		(at 7.738 -6 90)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "202a4e8f-3447-4dee-a809-fcf7c4712ff8")
+=======
+		(uuid "bec49f6e-2ffe-4a8d-a24a-0b929df2c7b5")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "76" smd rect
 		(at 6 -7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "28183a4f-d28a-4939-acfb-4ef5112ffc6e")
+=======
+		(uuid "9ce41260-5a23-4915-8d1a-17ecc06bdfed")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "77" smd rect
 		(at 5.5 -7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "90196903-8787-4e3f-ba0e-bf94f3e0cc63")
+=======
+		(uuid "53daca18-ffc8-4214-91ef-5ba9fb0f2598")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "78" smd rect
 		(at 5 -7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "1cf9d33f-b688-49bf-9d91-eceaf1ee6aa1")
+=======
+		(uuid "dccc712d-b0bf-4f87-8298-108ef24c0b69")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "79" smd rect
 		(at 4.5 -7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "6ac57649-53e9-4355-b59c-ef668a493de6")
+=======
+		(uuid "4028c16b-aad4-41ed-a8b9-15c502693939")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "80" smd rect
 		(at 4 -7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "1d15a92b-3755-49aa-8757-d44e2b34802d")
+=======
+		(uuid "17daa83c-7616-4650-88dc-289957d15869")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "81" smd rect
 		(at 3.5 -7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "e8d86796-5df0-4170-9f9c-df57b00aa027")
+=======
+		(uuid "8d8e6a00-aabe-4ae7-a0ca-a3835965e003")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "82" smd rect
 		(at 3 -7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "63215301-2a8b-4489-8ed0-66511ff11c59")
+=======
+		(uuid "0690627a-a52c-4ac8-9d4c-190b56405e00")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "83" smd rect
 		(at 2.5 -7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "101c1e7b-3b00-4643-83ec-472add9a0aa2")
+=======
+		(uuid "f6e100bb-040d-4acf-b61f-6c33ef804400")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "84" smd rect
 		(at 2 -7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "a3c91701-14e7-4020-ae89-1ab14c50cc3c")
+=======
+		(uuid "64eabc37-6bcf-431c-bbc4-4fcaa9035438")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "85" smd rect
 		(at 1.5 -7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "e14125ba-7b29-4095-9aa6-165aba6dd159")
+=======
+		(uuid "ea5b81c4-600f-4abe-a359-3931b6e7f684")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "86" smd rect
 		(at 1 -7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "d5f9b406-182f-480b-af79-801a87750ef9")
+=======
+		(uuid "a6e3aa5e-3ef4-498d-8f2e-ec6ad4de1a0b")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "87" smd rect
 		(at 0.5 -7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "03e9a28f-eebd-4036-b3c4-628c772894ff")
+=======
+		(uuid "9befa9ff-d02a-4399-b180-3a294016123b")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "88" smd rect
 		(at 0 -7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "a7c7134e-4fa4-4460-afc4-bf7350165b39")
+=======
+		(uuid "7aa784e4-4d31-4230-b246-aa76ad1bc97c")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "89" smd rect
 		(at -0.5 -7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "e173a33e-90ad-4447-b886-872f259b0e33")
+=======
+		(uuid "4b4085bd-2cfc-47a6-aa34-c2cc42c03179")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "90" smd rect
 		(at -1 -7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "fd35ade5-4ceb-41d8-9392-5977908b5751")
+=======
+		(uuid "05f5474c-44a4-4bd8-995a-8e0a95474252")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "91" smd rect
 		(at -1.5 -7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "6a10a842-2bf4-4852-b233-831e1e45e1b4")
+=======
+		(uuid "d4b039ba-80b9-4a7c-8179-f72f0eea4986")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "92" smd rect
 		(at -2 -7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "5375c7c6-001e-4dd4-bb52-ddb9b6b6c03b")
+=======
+		(uuid "4d271941-7580-49ba-97ed-0ad0729e2c89")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "93" smd rect
 		(at -2.5 -7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "c3d6834c-d6c3-4aec-a4cb-05075e65cd31")
+=======
+		(uuid "e6dec2a8-4544-4a57-a0af-d4a0121ddc03")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "94" smd rect
 		(at -3 -7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "22bda719-3a35-4ffa-9799-adcdafa2d886")
+=======
+		(uuid "7dda95d5-a7bb-4844-87bb-8bd6884c5854")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "95" smd rect
 		(at -3.5 -7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "4b96563d-2393-4d6b-b0ae-c30c4bfa2cd5")
+=======
+		(uuid "a8cc2528-d84e-4c4a-8ab2-01c241d7b38a")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "96" smd rect
 		(at -4 -7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "7af7dbb7-15bc-456f-8a01-64a1c2443788")
+=======
+		(uuid "2a29b53d-bbaa-44f6-b7bb-90ec960a227f")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "97" smd rect
 		(at -4.5 -7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "8f808846-80e3-4bfe-9d3d-d2a0efe1c180")
+=======
+		(uuid "0b1808cc-418b-483c-96d1-dc5a45fbc02b")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "98" smd rect
 		(at -5 -7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "5af39fca-4361-41aa-b010-cc42a22e3e36")
+=======
+		(uuid "2161305b-5a67-4155-ad89-64c5c9588ac3")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "99" smd rect
 		(at -5.5 -7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "7c82cad9-3903-4c2b-910b-c9856d2ebb61")
+=======
+		(uuid "77de88ab-7064-4662-927e-808078cf2a3c")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "100" smd rect
 		(at -6 -7.738)
 		(size 0.3 1.475)
 		(layers "F.Cu" "F.Mask" "F.Paste")
+<<<<<<< HEAD
 		(uuid "200504ad-fefb-4a9a-97ed-499259a7f0b9")
 	)
 	(embedded_fonts no)
 	(model "/Users/jonasheilig/Documents/KiCad/KiCad-Liberys_Jonas/LibraryLoader/SamacSys_Parts.3dshapes/STM32H743VGT6.stp"
+=======
+		(uuid "30423618-c03f-4552-a20d-32b69111ff23")
+	)
+	(embedded_fonts no)
+	(model "G:\\KICad-J\\LibraryLoader\\SamacSys_Parts.3dshapes\\STM32H743VGT6.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "G:/KICad-J/KiCad-Liberys_Jonas/LibraryLoader/SamacSys_Parts.3dshapes/STM32H743VGT6.stp"
+>>>>>>> refs/remotes/origin/main
 		(offset
 			(xyz 0 0 0)
 		)

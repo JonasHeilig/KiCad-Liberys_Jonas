@@ -8,7 +8,11 @@
 	(property "Reference" "IC**"
 		(at 0 0 0)
 		(layer "F.SilkS")
+<<<<<<< HEAD
 		(uuid "74d52717-58a8-4db7-bbc4-aebea613c059")
+=======
+		(uuid "31a1fab4-0be3-4746-bd87-6b11f409bfe3")
+>>>>>>> refs/remotes/origin/main
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -20,7 +24,11 @@
 		(at 0 0 0)
 		(layer "F.SilkS")
 		(hide yes)
+<<<<<<< HEAD
 		(uuid "938be71a-c64b-4771-b424-295acc6a06c1")
+=======
+		(uuid "de621edc-97c6-42e9-bff7-c810d80dbabc")
+>>>>>>> refs/remotes/origin/main
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -32,7 +40,11 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
+<<<<<<< HEAD
 		(uuid "a9b571c1-de2d-4bc1-a40f-1c1ade073f16")
+=======
+		(uuid "bbb1bd58-7474-467d-9447-7b7de5bc0775")
+>>>>>>> refs/remotes/origin/main
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -44,7 +56,11 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
+<<<<<<< HEAD
 		(uuid "6b2aed3a-aee5-4879-b8da-e43e7a484036")
+=======
+		(uuid "af2d992e-d2f6-469b-a15a-e1bf682f7c55")
+>>>>>>> refs/remotes/origin/main
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -61,7 +77,11 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
+<<<<<<< HEAD
 		(uuid "c55d2ef3-e40f-492a-b27d-3e5e232d9218")
+=======
+		(uuid "e06c1169-f0a9-4c9e-bc50-4074566b3d27")
+>>>>>>> refs/remotes/origin/main
 	)
 	(fp_line
 		(start -1.6 -2.45)
@@ -71,7 +91,11 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
+<<<<<<< HEAD
 		(uuid "a4eb2f4f-fdd0-40a7-b5b5-27c59866a8bb")
+=======
+		(uuid "0db60810-855c-4b0c-ad3c-622c9204413c")
+>>>>>>> refs/remotes/origin/main
 	)
 	(fp_line
 		(start -1.6 2.45)
@@ -81,7 +105,11 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
+<<<<<<< HEAD
 		(uuid "09eb478d-8402-4023-91ba-c759a7af65d8")
+=======
+		(uuid "0b566772-35f5-47cb-b410-4c26c9cce385")
+>>>>>>> refs/remotes/origin/main
 	)
 	(fp_line
 		(start 1.6 -2.45)
@@ -91,7 +119,11 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
+<<<<<<< HEAD
 		(uuid "84bbfb57-1abb-4eb5-ba8e-cf7e066467a2")
+=======
+		(uuid "acad870f-d980-4809-94ed-00142ed2a73e")
+>>>>>>> refs/remotes/origin/main
 	)
 	(fp_line
 		(start 1.6 2.45)
@@ -101,7 +133,11 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
+<<<<<<< HEAD
 		(uuid "ea3825d3-14bc-47eb-b8cb-98a55402c8ea")
+=======
+		(uuid "9bce25f0-4f2b-449e-8043-e58e5257011f")
+>>>>>>> refs/remotes/origin/main
 	)
 	(fp_line
 		(start -3.725 -2.75)
@@ -111,7 +147,11 @@
 			(type solid)
 		)
 		(layer "Dwgs.User")
+<<<<<<< HEAD
 		(uuid "d7201916-e312-45ff-88ac-1733529dcb20")
+=======
+		(uuid "0d1eaa96-73ef-4119-9cf4-2fb877bffe33")
+>>>>>>> refs/remotes/origin/main
 	)
 	(fp_line
 		(start -3.725 2.75)
@@ -121,7 +161,11 @@
 			(type solid)
 		)
 		(layer "Dwgs.User")
+<<<<<<< HEAD
 		(uuid "c3db136c-ce57-429f-81c3-21d1dac29588")
+=======
+		(uuid "c9bb31dc-75be-4c4d-9c5e-cd0fe7522287")
+>>>>>>> refs/remotes/origin/main
 	)
 	(fp_line
 		(start -1.95 -2.45)
@@ -131,7 +175,11 @@
 			(type solid)
 		)
 		(layer "Dwgs.User")
+<<<<<<< HEAD
 		(uuid "d274cac1-a596-49d2-8e0a-6069d8995d34")
+=======
+		(uuid "007193c8-d0c2-4453-b3d2-c075e8d2abc1")
+>>>>>>> refs/remotes/origin/main
 	)
 	(fp_line
 		(start -1.95 -1.18)
@@ -141,7 +189,11 @@
 			(type solid)
 		)
 		(layer "Dwgs.User")
+<<<<<<< HEAD
 		(uuid "6676234a-cef1-443e-a208-20bdf6cf6861")
+=======
+		(uuid "01d95761-e2c3-4831-b67f-e48d21314b01")
+>>>>>>> refs/remotes/origin/main
 	)
 	(fp_line
 		(start -1.95 2.45)
@@ -151,7 +203,11 @@
 			(type solid)
 		)
 		(layer "Dwgs.User")
+<<<<<<< HEAD
 		(uuid "331e66f5-a620-450f-985b-c0314d845733")
+=======
+		(uuid "b884dde7-a4d9-469d-963e-d6c0db0e4717")
+>>>>>>> refs/remotes/origin/main
 	)
 	(fp_line
 		(start 1.95 -2.45)
@@ -161,7 +217,11 @@
 			(type solid)
 		)
 		(layer "Dwgs.User")
+<<<<<<< HEAD
 		(uuid "4cf20a5d-7cee-447b-9d87-ab791aa55883")
+=======
+		(uuid "023045b8-643d-4916-91d0-a4f192c87924")
+>>>>>>> refs/remotes/origin/main
 	)
 	(fp_line
 		(start 1.95 2.45)
@@ -171,7 +231,11 @@
 			(type solid)
 		)
 		(layer "Dwgs.User")
+<<<<<<< HEAD
 		(uuid "ba2f7231-6c9a-4508-a506-281aafc022ff")
+=======
+		(uuid "b28f029a-7e04-4bb3-8e1d-26e1955d56d6")
+>>>>>>> refs/remotes/origin/main
 	)
 	(fp_line
 		(start 3.725 -2.75)
@@ -181,7 +245,11 @@
 			(type solid)
 		)
 		(layer "Dwgs.User")
+<<<<<<< HEAD
 		(uuid "24ea595c-10d6-451e-b5e3-76e54bbf7779")
+=======
+		(uuid "430f051b-9b60-4ec9-b4da-2fd8015bd3b1")
+>>>>>>> refs/remotes/origin/main
 	)
 	(fp_line
 		(start 3.725 2.75)
@@ -191,58 +259,108 @@
 			(type solid)
 		)
 		(layer "Dwgs.User")
+<<<<<<< HEAD
 		(uuid "522382ee-0502-4c22-8452-ddc02908fb05")
+=======
+		(uuid "c5f68c2d-20d5-4be4-a667-9288e4186064")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "1" smd rect
 		(at -2.712 -1.905 90)
 		(size 0.65 1.525)
 		(layers "F.Cu" "F.Paste")
+<<<<<<< HEAD
 		(uuid "4e5a0073-025c-439c-a633-224b81c46890")
+=======
+		(uuid "98f31005-aec8-4bf8-9f26-cc5d78bc9dce")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "2" smd rect
 		(at -2.712 -0.635 90)
 		(size 0.65 1.525)
 		(layers "F.Cu" "F.Paste")
+<<<<<<< HEAD
 		(uuid "323c104b-8e0c-4176-9ef9-8bf60e4f8197")
+=======
+		(uuid "99325dd9-f8ca-492a-9763-5328439fb5c7")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "3" smd rect
 		(at -2.712 0.635 90)
 		(size 0.65 1.525)
 		(layers "F.Cu" "F.Paste")
+<<<<<<< HEAD
 		(uuid "5e6e2526-cc9c-4f95-ae5a-f2759aeb603a")
+=======
+		(uuid "a0cfb2fb-1013-4489-aa80-fef43c07e4be")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "4" smd rect
 		(at -2.712 1.905 90)
 		(size 0.65 1.525)
 		(layers "F.Cu" "F.Paste")
+<<<<<<< HEAD
 		(uuid "3582c403-93ae-481e-bf80-8a3f67859aa7")
+=======
+		(uuid "a26920ea-73bd-4352-b6b2-d9eaf317e763")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "5" smd rect
 		(at 2.712 1.905 90)
 		(size 0.65 1.525)
 		(layers "F.Cu" "F.Paste")
+<<<<<<< HEAD
 		(uuid "ad90ad19-f2e6-40b4-9359-46890d5b76ed")
+=======
+		(uuid "4f3f3aae-39cb-4e87-8cb2-55b0c00d4450")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "6" smd rect
 		(at 2.712 0.635 90)
 		(size 0.65 1.525)
 		(layers "F.Cu" "F.Paste")
+<<<<<<< HEAD
 		(uuid "4adbc6b6-e6e3-4072-8f64-ff402272b41a")
+=======
+		(uuid "c75ec0cd-b18a-47b1-8897-d4373dd64d0e")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "7" smd rect
 		(at 2.712 -0.635 90)
 		(size 0.65 1.525)
 		(layers "F.Cu" "F.Paste")
+<<<<<<< HEAD
 		(uuid "6447b008-b851-439f-9684-b365d82817f3")
+=======
+		(uuid "e03d0be7-e458-4ed4-8211-946bacb11f70")
+>>>>>>> refs/remotes/origin/main
 	)
 	(pad "8" smd rect
 		(at 2.712 -1.905 90)
 		(size 0.65 1.525)
 		(layers "F.Cu" "F.Paste")
+<<<<<<< HEAD
 		(uuid "6e374602-652f-4e2a-bfb4-3bd42a51407e")
 	)
 	(embedded_fonts no)
 	(model "/Users/jonasheilig/Documents/KiCad/KiCad-Liberys_Jonas/LibraryLoader/SamacSys_Parts.3dshapes/NE555DR.stp"
+=======
+		(uuid "59fffe6e-fd2f-4d7f-984d-3827f0d81cb1")
+	)
+	(embedded_fonts no)
+	(model "G:\\KICad-J\\LibraryLoader\\SamacSys_Parts.3dshapes\\NE555DR.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "G:/KICad-J/KiCad-Liberys_Jonas/LibraryLoader/SamacSys_Parts.3dshapes/NE555DR.stp"
+>>>>>>> refs/remotes/origin/main
 		(offset
 			(xyz 0 0 0)
 		)
