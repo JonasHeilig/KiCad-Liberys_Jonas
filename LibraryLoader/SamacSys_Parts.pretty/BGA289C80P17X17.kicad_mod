@@ -1950,7 +1950,7 @@
 		(uuid "7511f059-212b-4097-8606-874aa0515e5f")
 	)
 	(embedded_fonts no)
-	(model "G:\\KICad-J\\LibraryLoader\\SamacSys_Parts.3dshapes\\MCIMX6Y2CVM05AB.stp"
+	(model "/Users/jonasheilig/Documents/KiCad/KiCad-Liberys_Jonas/LibraryLoader/SamacSys_Parts.3dshapes/MCIMX6Y2CVM05AB.stp"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -209,7 +209,7 @@
 		(uuid "09e74933-88ee-49a5-8d87-a4255d30b8a2")
 	)
 	(embedded_fonts no)
-	(model "/Volumes/PWALLET/KiCad-Liberys/LibraryLoader/3DM/AOTA-B201610S3R3-101-T.stp"
+	(model "/Users/jonasheilig/Documents/KiCad/KiCad-Liberys_Jonas/LibraryLoader/SamacSys_Parts.3dshapes/AOTA-B201610S3R3-101-T.stp"
 		(offset
 			(xyz 0 0 0)
 		)
